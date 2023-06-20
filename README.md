@@ -6,4 +6,7 @@ In the Dashboard, the user can view the latest transaction history, Total income
 
 All these details are also beautifully plotted on a graph indicating the date of the transaction. 
 
-![ Demo Video](https://drive.google.com/file/d/1xe6RiPamYHGy0AeMe_d59joj0MTtWz8e/view?usp=drive_link)
+[![Demo Video](https://img.shields.io/badge/Watch%20Demo%20Video-ff69b4?style=for-the-badge&logo=vimeo)]([![Demo Video](https://img.shields.io/badge/Watch%20Demo%20Video-View%20on%20Vimeo-ff69b4?style=for-the-badge&logo=vimeo)](https://player.vimeo.com/video/837819115)
+)
+
+
