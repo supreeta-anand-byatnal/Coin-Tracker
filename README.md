@@ -6,6 +6,8 @@ In the Dashboard, the user can view the latest transaction history, Total income
 
 All these details are also beautifully plotted on a graph indicating the date of the transaction. 
 
+This project performs CRUD operations using MERN stack 
+
 [![Demo Video](https://img.shields.io/badge/Watch%20Demo%20Video-ff69b4?style=for-the-badge&logo=vimeo)](https://vimeo.com/837819115?share=copy)
 
 
