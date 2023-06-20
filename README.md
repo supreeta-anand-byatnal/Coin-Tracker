@@ -6,4 +6,4 @@ In the Dashboard, the user can view the latest transaction history, Total income
 
 All these details are also beautifully plotted on a graph indicating the date of the transaction. 
 
-![Video]([https://drive.google.com/file/d/1YzatOOUq6yYo-Q4tUq5bXfggRBH1QDXl/view?usp=sharing](https://raw.githubusercontent.com/supreeta-anand-byatnal/Coin-Tracker/main/Demo.mp4)https://raw.githubusercontent.com/supreeta-anand-byatnal/Coin-Tracker/main/Demo.mp4)
+![ Demo Video](https://drive.google.com/file/d/1xe6RiPamYHGy0AeMe_d59joj0MTtWz8e/view?usp=drive_link)
