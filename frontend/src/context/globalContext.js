@@ -2,7 +2,7 @@ import React, { useContext, useState } from "react"
 import axios from 'axios'
 
 
-const BASE_URL = "https://coin-tracker-app-dd7e0bccd53e.herokuapp.com/";
+const BASE_URL = "http://localhost:3000/api/v1/";
 
 
 const GlobalContext = React.createContext()
